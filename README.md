@@ -17,6 +17,6 @@ It will be updated soon.
 ```
 python test.py
 ```
-Note: The weights can be downloaded: [Baidu](https://pan.baidu.com/s/1r9p7HdS-W80nNKpYeyCY_w) (code: 1h2h)
+Note: The weights ([best.pt]) can be downloaded: [Baidu](https://pan.baidu.com/s/1r9p7HdS-W80nNKpYeyCY_w) (code: 1h2h)
 
 ### The complete code will be released soon.
