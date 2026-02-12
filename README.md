@@ -18,6 +18,6 @@ It will be updated soon.
 ```
 python test.py
 ```
-Note: The weights [best.pt] of CMFANet(n) can be downloaded in /weights/ folder.
+Note: The weights [best.pt] of CMFANet(n) can be downloaded in ```/weights/``` folder.
 
 ### The complete code will be released soon.
